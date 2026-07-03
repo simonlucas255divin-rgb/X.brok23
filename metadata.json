@@ -1,0 +1,6 @@
+{
+  "name": "Mirage Trading",
+  "description": "AI trading agent for real-time financial market analysis and high-frequency secured trade execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
